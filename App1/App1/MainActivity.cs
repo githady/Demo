@@ -8,7 +8,7 @@ using DemoApp;
 
 namespace App1
 {
-    [Activity(Label = "DemoAppRelease", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "ReleaseDone", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle bundle)
