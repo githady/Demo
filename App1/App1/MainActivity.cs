@@ -14,7 +14,7 @@ namespace App1
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
-            AppCenter.Start("ae4be8d2-2ac1-4b9f-b59b-36ead39e04a8",
+            AppCenter.Start("00806dbd-d7d0-494d-87f5-a2fb5b379727",
                    typeof(Analytics), typeof(Crashes));
 
             // Set our view from the "main" layout resource
